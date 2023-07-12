@@ -1,4 +1,4 @@
-# Assignment-05-Multiple-Linear-Regression-1
+# Assignment-05-Multiple-Linear-Regression-2
 
 Consider only the below columns and prepare a prediction model for predicting Price.
 
